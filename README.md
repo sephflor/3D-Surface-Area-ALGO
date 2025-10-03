@@ -1,1 +1,1 @@
-# 3D-Surface-Area-ALGO
+# 3D-Surface-Area-ALGO.This program calculates the total surface area of a 3D shape formed by stacks of cubes on a 2D grid. It adds 2 for the top and bottom of each stack and, for each of the four sides, adds the positive difference between the current stack height and its neighbor’s height, summing these contributions for the final surface area.
